@@ -234,7 +234,7 @@ export const SignUpView = () => {
 
           <div
             className="hidden md:flex flex-col gap-y-4 items-center justify-center bg-linear-to-br
-           from-green-700 to-green-900 relative p-6"
+           from-sidebar-accent to-sidebar relative p-6"
           >
             <img src="/logo.svg" alt="Logo" className="w-12 h-12 mb-2" />
             <p className="text-2xl font-semibold text-white text-center">
